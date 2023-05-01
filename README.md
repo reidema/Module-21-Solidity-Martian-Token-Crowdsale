@@ -9,6 +9,7 @@ Solidity and Tokenization
 
 ##Step 2 - Create KaseiCoin Crowdsale Contract##
 
-![image](https://user-images.githubusercontent.com/117589787/235463477-cee73908-e415-4245-8701-b025d8ca1dde.png)
+![image](https://user-images.githubusercontent.com/117589787/235463563-9ebdbb79-ea52-46c1-b3c6-b1a4ac3db65f.png)
+
 
 
