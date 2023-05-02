@@ -22,7 +22,20 @@ Solidity and Tokenization
 ![image](https://user-images.githubusercontent.com/117589787/235570578-fa590ae4-1051-40d6-afdc-47cd17e6b9d1.png)
 
 
-##
+##Deployed smart contract ERC 20##
+
+![image](https://user-images.githubusercontent.com/117589787/235572150-2ef358f5-87ee-496a-af28-dc09846cda07.png)
+
+##Ganache Screenshot Showing account balance##
+
+![image](https://user-images.githubusercontent.com/117589787/235572252-2e4b26fa-7f64-4b23-b78d-4407028862bc.png)
+
+##Deployed Contract functionality##
+
+![image](https://user-images.githubusercontent.com/117589787/235572769-e34ccb6c-5643-4b15-8ec4-d2c28731a591.png)
+
+
+
 
 
 
